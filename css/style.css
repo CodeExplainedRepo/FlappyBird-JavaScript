@@ -1,0 +1,8 @@
+.game__title{
+  text-align: center;
+}
+
+.game__screen{
+  display: flex;
+  justify-content: center;
+}
